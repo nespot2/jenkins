@@ -31,7 +31,7 @@ services:
     volumes:
       - 'jenkins-data:/var/jenkins_home'
       - 'jenkins-docker-certs:/certs/client:ro'
-      - './aws:/root/.aws'
+      - '~/.aws:/root/.aws'
 
 networks:
   jenkins:
