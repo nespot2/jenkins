@@ -1,8 +1,17 @@
 # docker를 이용한 jenkins 설치 및 실행
 
 - jenkins 설치 및 실행 명령어
+
 ```
 docker-compose up -d
+```
+
+- awscli를 사용하기 위해 .aws 폴더에 credentials를 생성
+
+```
+[default]
+aws_secret_access_key = <key>
+aws_access_key_id = <key>
 ```
 
 
