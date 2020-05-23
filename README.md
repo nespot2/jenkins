@@ -6,7 +6,7 @@
 docker-compose up -d
 ```
 
-- awscli를 사용하기 위해 .aws 폴더에 credentials를 생성
+- awscli를 사용하기 위해 .aws 폴더에 credentials 생성
 
 ```
 [default]
