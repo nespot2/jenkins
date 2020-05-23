@@ -6,7 +6,7 @@
 docker-compose up -d
 ```
 
-- .aws 폴더에 credentials 생성
+-.aws 폴더에 credentials 생성
 
 ```
 [default]
