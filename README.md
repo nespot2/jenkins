@@ -1,6 +1,6 @@
 # docker를 이용한 jenkins 설치 및 실행
 
-- jenkins 설치 및 실행 명령어
+- jenkins 설치 및 실행
 
 ```
 docker-compose up -d
